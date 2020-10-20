@@ -10908,7 +10908,27 @@ body {
   font-weight: normal;
 }
 
+body div {
+  color: red;
+}
+
+body h1 {
+  margin-top: 10px;
+}
+
+body a {
+  color: black;
+}
+
+body a:hover {
+  color: blue;
+}
+
 nav.navbar.navbar-expand-lg {
   margin-bottom: 30px;
+}
+
+.navbar-inverse {
+  background-color: #3c3e99;
 }
 
