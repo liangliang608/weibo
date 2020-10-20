@@ -221,6 +221,7 @@
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1j6sZ2gNtq0k5lbQdAnFpo0YRs1" />
@@ -290,17 +291,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1603136672336" />
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603137475002">
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603211862095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603137475002" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603211862095" />
+    <state x="698" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603202454862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603202454862" />
+    <state x="595" y="155" width="598" height="804" key="find.popup" timestamp="1603204616325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="155" width="598" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603204616325" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1603192192682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603192192682" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603194628082">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603213379091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603194628082" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603213379091" />
   </component>
 </project>
