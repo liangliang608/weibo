@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c17d01ff-d9cc-47ae-886a-59ef8ed3efc1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
@@ -35,7 +38,7 @@
       <change beforePath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/artisan" beforeDir="false" afterPath="$PROJECT_DIR$/artisan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bootstrap/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" afterDir="false" />
@@ -242,11 +245,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunAnythingCache">
@@ -292,10 +294,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="776" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603194572976" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1603136500176">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1603272035443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603136500176" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603272035443" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1603271096944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603271096944" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1603136672336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -308,17 +314,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="698" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603202454862" />
-    <state x="595" y="155" width="598" height="804" key="find.popup" timestamp="1603204616325">
+    <state x="595" y="155" width="598" height="804" key="find.popup" timestamp="1603272086575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="595" y="155" width="598" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603204616325" />
+    <state x="595" y="155" width="598" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603272086575" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1603192192682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603192192682" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603213379091">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603271262097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603213379091" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603271262097" />
   </component>
 </project>
