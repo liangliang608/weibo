@@ -26,7 +26,7 @@
           <label for="password_confirmation">确认密码</label>
           <input type="password" class="form-control" name="password_confirmation" value="{{old('password_confirmation')}}">
         </div>
-        <button type="submit" class="btn btm-promary">注册</button>
+        <button type="submit" class="btn btn-primary">注册</button>
 
       </form>
     </div>
