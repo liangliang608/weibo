@@ -18,10 +18,18 @@
             <label for="password">密码：</label>
             <input type="text" class="form-control" name="password" VALUE="{{old('password')}}">
           </div>
+          <div class="form-group">
+            <div class="form-check">
+              <input type="checkbox" class="form-check-input" name="remember" id="exampleCheck1">
+              <label for="exampleCheck1" class="form-check-label">记住我：</label>
+            </div>
+          </div>
 
           <button class="btn btn-primary" type="submit">登录</button>
         </form>
+
         <hr>
+
         <p>
           还没账号?<a href="{{route('signup')}}">现在注册！</a>
         </p>
