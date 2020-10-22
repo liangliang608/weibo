@@ -5,10 +5,10 @@ function get_db_config() {
 
         return $db_config = [
             'connection' => 'pgsql',
-            'host' => $url['host'],
-            'database' => substr($url['path'], 1),
-            'username' => $url['url'],
-            'password' => $url['pass'],
+            'host' => $url["host"],
+            'database' => substr($url["path"], 1),
+            'username' => $url["user"],
+            'password' => $url["pass"],
         ];
     } else {
         return $db_config = [
